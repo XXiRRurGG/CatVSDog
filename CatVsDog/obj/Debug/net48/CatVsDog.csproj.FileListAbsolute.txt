@@ -1,0 +1,6 @@
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net48\CatVsDog.csproj.AssemblyReference.cache
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net48\CatVsDog.csproj.SuggestedBindingRedirects.cache
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net48\CatVsDog.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net48\CatVsDog.AssemblyInfoInputs.cache
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net48\CatVsDog.AssemblyInfo.cs
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net48\CatVsDog.csproj.CoreCompileInputs.cache

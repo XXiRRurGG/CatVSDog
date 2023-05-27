@@ -1,0 +1,60 @@
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.exe
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.deps.json
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.runtimeconfig.json
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\ref\CatVsDog.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.pdb
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.AssemblyInfoInputs.cache
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.AssemblyInfo.cs
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.csproj.CoreCompileInputs.cache
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.dll
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\ref\CatVsDog.dll
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.pdb
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.genruntimeconfig.cache
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.Asio.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.Core.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.Midi.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.Wasapi.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.WinMM.dll
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.csproj.CopyComplete
+D:\C# code\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.csproj.AssemblyReference.cache
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C# code\CatVsDog\CatVsDog\bin\Debug\net6.0\OhNoTheDogKilledMe.wav
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.exe
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\OhNoTheDogKilledMe.wav
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.deps.json
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.runtimeconfig.json
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\ref\CatVsDog.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\CatVsDog.pdb
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.Asio.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.Core.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.Midi.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.Wasapi.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\NAudio.WinMM.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.csproj.AssemblyReference.cache
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.GeneratedMSBuildEditorConfig.editorconfig
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.AssemblyInfoInputs.cache
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.AssemblyInfo.cs
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.csproj.CoreCompileInputs.cache
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.csproj.CopyComplete
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\ref\CatVsDog.dll
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.pdb
+D:\CatVSDog(Finished)\CatVsDog\CatVsDog\obj\Debug\net6.0\CatVsDog.genruntimeconfig.cache
